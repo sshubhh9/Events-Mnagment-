@@ -1,0 +1,21 @@
+.bg-warning {
+    background-color: #ffc107!important;
+    height: 200px;
+}
+element.style {
+    text-align: center;
+    padding: 11px;
+    margin-right: -63px;
+    margin-left: 500px;
+}
+element.style {
+    height: 50px;
+}
+.maxg{
+    width: 100px;
+ height: 50px;
+ margin: 30px;
+ color: black;
+ background-color:rgb(110, 9, 234);
+ border-radius: 20px;
+}

@@ -1,0 +1,34 @@
+
+ img, svg {
+    vertical-align: middle;
+    width: 100%;
+    padding: 30px;
+    height: 80%;
+}
+.col2 img {
+    width: 32%;
+    padding: 25px;
+    height: 80%;
+}
+element.style {
+    width: 30%;
+    
+}
+element.style {
+    width: 347px;
+}
+.bg-light {
+    background-color: #f8f9fa!important;
+    width: 391px;
+    height: 29px;
+}
+@media (max-width: 768px) {
+    /* Adjust styles for screens smaller than 768px width */
+    /* Example: change font sizes, margins, or hide certain elements */
+  }
+  
+  @media (max-width: 480px) {
+    /* Adjust styles for screens smaller than 480px width */
+  }
+  
+

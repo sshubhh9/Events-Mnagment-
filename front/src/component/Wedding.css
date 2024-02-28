@@ -1,0 +1,14 @@
+.image img, svg {
+    vertical-align: middle;
+    width: 100%;
+    padding: 30px;
+    height: 80%;
+    border-radius: 60px;
+}
+.bg-white {
+    background-color: #fff!important;
+    padding: -35px;
+    margin: 37px;
+    border-radius: 20px;
+    width: 50%;
+}

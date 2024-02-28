@@ -1,0 +1,45 @@
+
+.bg-white {
+    background-color: #fff!important;
+    padding: -35px;
+    margin: 20px;
+    border-radius: 20px;
+}
+img, svg {
+    vertical-align: middle;
+
+    padding: 43px;
+    height: 87%;
+}
+element.style {
+    width: 94%;
+    height: 89%;
+    margin: -7px;
+}
+.border-bottom {
+    width: 100%;
+    height: 80%;
+}
+.vl {
+    border-left: 6px solid green;
+    height: 500px
+}
+.vl-right h2{
+    border-right: 20px;
+ 
+}
+span.brbrbr {
+    border-bottom: 5px solid green;
+    width: 10%;
+    width: 59px;
+    padding-left: 10px;
+    width: 21px;
+}
+.vl-right {
+    display: flex;
+}
+.text-light {
+    color: #f8f9fa!important;
+    margin: 10px;
+    padding: 4px;
+}
